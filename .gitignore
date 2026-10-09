@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+release/
+*.spec
+app.log
+logs/
+test_artifacts/
+data/
+*.tmp
+config.broken-*.json
+# 개인 설정 변경은 커밋하지 않는 것을 권장합니다.
